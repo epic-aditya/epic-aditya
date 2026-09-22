@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=190&section=header&text=Aditya%20Zalte&fontSize=46&fontColor=00ff9d&animation=fadeIn&fontAlignY=36&desc=Security-minded%2C%20cloud-focused&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://linkedin.com/in/adityazalte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3200&pause=1100&color=00FF9D&center=true&vCenter=true&width=650&lines=Into+networks%2C+systems%2C+and+the+Security;I+Count+curiosity+as+a+technical+skill;Learning+cloud+security%2C+mistakes+included;Occasionally+AFK,+playing+chess" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3200&pause=1100&color=00FF9D&center=true&vCenter=true&width=650&lines=Into+networks%2C+systems%2C+and+security;I+count+curiosity+as+a+technical+skill;Learning+cloud+security%2C+mistakes+included;Occasionally+AFK%2C+playing+chess" />
 </a>
 
 <br>
@@ -14,7 +14,7 @@
 
 <br>
 
-I'm a cybersecurity undergrad focused on systems, security, and the cloud. Right now that's pointed at the cloud, figuring out how secure infrastructure actually gets built instead of how it looks on a diagram. Outside of that I helped run a security community at my university and lose more evenings than I'd like to admit to CTFs and Chess.
+I'm a cybersecurity undergrad focused on systems, security, and the cloud, specifically how secure infrastructure actually gets built instead of how it looks on a diagram. Outside of that I helped run a security community at my university and lose more evenings than I'd like to admit to CTFs and chess.
 
 <br>
 
@@ -23,23 +23,6 @@ I'm a cybersecurity undergrad focused on systems, security, and the cloud. Right
 ### STACK
 
 <img src="https://skillicons.dev/icons?i=linux,python,bash,ubuntu,kali,obsidian,aws,gcp,azure,git,github,js,react,vscode" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=epic-aditya&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=epic-aditya&theme=github-dark-blue&hide_border=true" width="41%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=epic-aditya&theme=onedark&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
