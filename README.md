@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=190&section=header&text=Aditya%20Zalte&fontSize=46&fontColor=00ff9d&animation=fadeIn&fontAlignY=36&desc=Security-minded%2C%20cloud-focused&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=190&section=header&text=Aditya%20Zalte&fontSize=46&fontColor=00ff9d&animation=fadeIn&fontAlignY=36&desc=Offensive%20Security%20%7C%20VAPT%20%7C%20Security%20Research&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://linkedin.com/in/adityazalte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3200&pause=1100&color=00FF9D&center=true&vCenter=true&width=650&lines=Into+networks%2C+systems%2C+and+security;I+count+curiosity+as+a+technical+skill;Learning+cloud+security%2C+mistakes+included;Occasionally+AFK%2C+playing+chess" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3200&pause=1100&color=00FF9D&center=true&vCenter=true&width=650&lines=Into+Offensive+Security%2C+Networks%2C+And+Systems;Curiosity+Is+My+Core+Technical+Skill;Learning+VAPT+And+Security+Research;AFK+Playing%3A+CTFs+and+Chess" />
 </a>
 
 <br>
@@ -14,7 +14,7 @@
 
 <br>
 
-I'm a cybersecurity undergrad focused on systems, security, and the cloud, specifically how secure infrastructure actually gets built instead of how it looks on a diagram. Outside of that I helped run a security community at my university and lose more evenings than I'd like to admit to CTFs and chess.
+I’m a cybersecurity undergraduate specializing in vulnerability assessment and penetration testing (VAPT) and security research. I focus on identifying, exploiting, and documenting security weaknesses across web applications, networks, and systems, with an emphasis on clear, actionable remediation. I co-organized a security community at my university and actively build my skills through CTF competitions and hands-on lab environments.
 
 <br>
 
@@ -22,7 +22,7 @@ I'm a cybersecurity undergrad focused on systems, security, and the cloud, speci
 
 ### STACK
 
-<img src="https://skillicons.dev/icons?i=linux,python,bash,ubuntu,kali,obsidian,aws,gcp,azure,git,github,js,react,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,python,bash,ubuntu,kali,obsidian,aws,git,github,js,react,vscode" />
 
 </div>
 
